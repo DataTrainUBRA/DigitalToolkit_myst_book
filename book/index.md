@@ -13,4 +13,3 @@ The website is still in build.
 - Data Engineering
 - Statistical & Critical Thinking
 - More to come
-- ja
