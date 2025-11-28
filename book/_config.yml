@@ -1,1 +1,3 @@
-
+title: My MyST Book
+author: Me
+only_build_toc_files: true
