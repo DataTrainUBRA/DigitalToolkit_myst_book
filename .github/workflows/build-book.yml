@@ -1,8 +1,7 @@
 name: build-book
 
-
 permissions:
-  contents: write 
+  contents: write
 
 on:
   push:
