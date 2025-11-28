@@ -12,3 +12,4 @@ The website is still in build.
 - Data Visualization
 - Data Engineering
 - Statistical & Critical Thinking
+- More to come
