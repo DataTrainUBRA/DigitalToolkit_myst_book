@@ -1,3 +1,16 @@
-title: Test Book
-author: Me
+title: "Digital Tool Kit"
+author: "DataTrainUBRA"
+logo: images/logo.png  # Optional: eigenes Logo in /images speichern
 only_build_toc_files: true
+
+html:
+  favicon: images/favicon.ico
+  use_repository_button: true
+  use_issues_button: false
+  use_download_button: true
+  theme:
+    sidebar_expandable: true
+    navigation_with_keys: true
+
+repository:
+  url: https://github.com/DataTrainUBRA/DigitalToolkit_myst_book
