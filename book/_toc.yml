@@ -6,27 +6,22 @@ chapters:
   sections:
     - file: Sections/01_planning/sources
     - file: Sections/01_planning/tools
-
 - file: Sections/02_acquisition/skills
   sections:
     - file: Sections/02_acquisition/sources
     - file: Sections/02_acquisition/tools
-
 - file: Sections/03_analysis/skills
   sections:
     - file: Sections/03_analysis/sources
     - file: Sections/03_analysis/tools
-
 - file: Sections/04_archiving/skills
   sections:
     - file: Sections/04_archiving/sources
     - file: Sections/04_archiving/tools
-
 - file: Sections/05_access/skills
   sections:
     - file: Sections/05_access/sources
     - file: Sections/05_access/tools
-
 - file: Sections/06_reuse/skills
   sections:
     - file: Sections/06_reuse/sources
